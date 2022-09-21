@@ -12,4 +12,7 @@ p {
   #banner {
       height: 50%;
       width: 100%;
+      margin-left: 1px;
+      border: solid;
+      color: #000000;
  }

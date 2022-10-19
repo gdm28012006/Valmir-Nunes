@@ -4,10 +4,12 @@ body {
 h1 {
 }
 p {
-  text-align: center ; color: #FFFFFF;
+  text-align: center ; 
+  color: #FFFFFF;
 }
 p {
-  text-align:left; color: #000000;
+  text-align:left; 
+  color: #000000;
 }
   #banner {
       height: 50%;
